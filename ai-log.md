@@ -10,6 +10,11 @@ Accepted: issues templet, navigation
 revised: definitions 
 Reason: Wanted assistance while keeping project authentically my own.  
 
+Discoveries: 
+Clear definitions of branches and git issues
+How to document AI usuage
+
+
 https://share.google/aimode/qfuyXj6WAxneIzQGO
 https://share.google/aimode/BzjQ4UQENNd7PoDtH
 https://share.google/aimode/C2dYlKZJ8cDY2l0PB
